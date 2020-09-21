@@ -1,6 +1,6 @@
 cask 'ionic-machina-cli' do
   version '1.8.0-8'
-  sha256 "15d388242b5b170c2e076d4a89c11c2fad29537d30c1cd612511f2ee99c9ab18"
+  sha256 "7f2a8be64494fd06502cf05f9f8eb28d72c95a68026b90ff94f7101d2b949d21"
 
   # github.com/IonicDev/ionic-machina-cli/releases/download/1.8.0/machina-MacOSX_1.8.0-8.tar.gz was verified as official when first introduced to the cask
   url "https://github.com/IonicDev/ionic-machina-cli/releases/download/1.8.0/machina-MacOSX_1.8.0-8.tar.gz"
