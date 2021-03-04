@@ -1,10 +1,14 @@
 # homebrew-ionic
 
-Casks for Ionic Security tools.
+Casks for Ionic Machina CLI tools.
 
 ## Installation
 
-### Ionic Profiles
+### Machina CLI
+```bash
+brew cask install ionicdev/ionic/ionic-machina-cli
+
+### Ionic Profiles (legacy)
 
 ```bash
 brew cask install ionicdev/ionic/ionic-profiles
