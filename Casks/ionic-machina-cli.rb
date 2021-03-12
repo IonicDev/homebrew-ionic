@@ -11,6 +11,8 @@ cask 'ionic-machina-cli' do
   homepage "https://dev.ionic.com/tools/machina"
 
   binary 'machina/machina'
+  binary 'machina/libCryptoAbstractLibFips.dylib'
+  binary 'machina/libCryptoAbstractLibPlatform.dylib'
   manpage 'machina/machina.1'
 
 end
